@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Genival Italo. Sou Desenvolvedor Fronte-end</h2>
+<h2 align="left">Olá 👋! Meu nome é Genival Italo. Sou Desenvolvedor Front-end</h2>
 
 ###
 
